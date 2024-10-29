@@ -21,3 +21,9 @@ print(people)
 # git init
 # git add .
 # git commit -m "Python basics"
+# git remote add origin https://github.com/coolmindcodes/python_basics.git
+# git push -u origin master
+
+
+
+# loops and functions in python
