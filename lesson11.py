@@ -52,3 +52,27 @@ print_todays_date()
 add(1, 2)
 add(7, 8, 9)
 add(74, 65, 77, 76, 78, 89)
+
+
+# data  name, phone, gender, amount
+# Account
+# deposit / withdrawal / check balance /
+# oop
+#---------------------
+# Matatu -> number, driver, conductor, route
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
